@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Opening a business
 This repository will be mainly used for the IBM capstone project.
 Purpose: 
 Data scrapping of Neighborhoods in Toronto and using foursquare API to understand venues within each neighborhood. 
